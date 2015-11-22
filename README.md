@@ -44,7 +44,7 @@ We should be inside the `example.com` directory. Now we're going to clone Trelli
 git clone git@github.com:roots/trellis.git ansible
 ```
 
-#### Provision Ansible Roles and Packages
+Provision Ansible roles and packages.
 
 ```
 cd ~/Sites/example.com/ansible && ansible-galaxy install -r requirements.yml
