@@ -107,6 +107,6 @@ mv ~/Sites/example.com/sites/web/app/themes/sage ~/Sites/example.com/sites/web/a
 
 `cd` to the `new-theme-name` and `npm install && bower install`
 
-Now you can run `gulp` and `http://example.com` now has styles! Whew! That was a lot of steps! 
+Now you can run `gulp` in that directory and build a theme yo! `http://example.com` should now have styles. Whew! That was a lot of steps! Congrats!
 
 
