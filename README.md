@@ -32,9 +32,9 @@ brew install git ansible composer
 [Next, download and install Vagrant.](https://www.vagrantup.com/downloads.html) Painless.
 
 
-### Trellis
+# Starting a Project with Trellis
 
-Next, `mkdir -p ~/Sites/example.com` where `example` is the name of the project.
+Next, `mkdir -p ~/Sites/example.com` where `example.com` is the name of the project.
 
 Then, go ahead and `cd ~/Sites/example.com`
 
