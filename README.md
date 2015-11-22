@@ -71,7 +71,7 @@ cd ~/Sites/example.com/site && composer install
 
 ### More Ansible Stuff
 
-If you're like me, you have probably aliased Sublime Text, read ahead friend. If not, click here and come back.
+If you're like me, you probably alreadu aliased Sublime Text, so read ahead friend ([click here if you haven't aliased Sublime](http://ashleynolan.co.uk/blog/launching-sublime-from-the-terminal) and come back). Or if you're into Vim and all that, that's cool too.
 
 ```
 subl ~/Sites/example.com/ansible/group_vars/development/wordpress_sites.yml
